@@ -27,7 +27,4 @@ This notebook demonstrates basic **NumPy** operations using Python, ideal for be
 - Jupyter Notebook
 
 ## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
   [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day1.ipynb)
