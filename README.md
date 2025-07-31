@@ -28,3 +28,29 @@ This notebook demonstrates basic **NumPy** operations using Python, ideal for be
 
 ## 🚀 How to Use
   [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day1.ipynb)
+
+
+
+
+  # 📊 Day 2 - Data Preprocessing & Exploration (30 Days of ML)
+
+This notebook marks **Day 2** of my 30 Days of Machine Learning journey. The focus is on data preprocessing and basic exploratory data analysis (EDA) using Pandas and NumPy.
+
+## 🧠 Key Concepts Covered
+
+- Reading data from Excel using `pandas.read_excel()`
+- Inspecting datasets (`head()`, `info()`, `describe()`)
+- Handling missing values
+- Basic statistical analysis
+- Column operations and data filtering
+
+## 🛠️ Tools Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib 
+
+## 🚀 How to Use
+  [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day2.ipynb)
