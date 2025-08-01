@@ -54,3 +54,36 @@ This notebook marks **Day 2** of my 30 Days of Machine Learning journey. The foc
 
 ## 🚀 How to Use
   [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day2.ipynb)
+
+
+
+  # 📈 Day 3 – Regression & Classification Models (30 Days of ML)
+
+Day 3 of my Machine Learning journey focuses on implementing **Linear Regression** and **Logistic Regression** using real-world COVID-19 data in India.
+
+## 🧠 What This Notebook Covers
+
+### 🔹 Linear Regression
+- Predicting **Recovered Cases** based on **Total Confirmed Cases**
+- Train-test split for evaluation
+- Visualization of regression line
+- Model evaluation using **Mean Squared Error**
+
+### 🔹 Logistic Regression
+- Classifying **High Risk** regions based on **Deaths**
+- Thresholding TotalConfirmedCases to create binary labels
+- Model evaluation using **Accuracy** and **Classification Report**
+- Visualization of predictions
+
+## 🛠️ Tools & Libraries
+- Python  
+- NumPy & Pandas  
+- Matplotlib  
+- Scikit-learn (LinearRegression, LogisticRegression)
+
+## 🚀 How to Run
+
+ [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day3.ipynb)
+
+
+
