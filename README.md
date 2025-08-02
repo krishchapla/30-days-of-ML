@@ -86,4 +86,39 @@ Day 3 of my Machine Learning journey focuses on implementing **Linear Regression
  [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day3.ipynb)
 
 
+Day 4 – 30 Days of ML 🚀
+Topic: Data Preprocessing & Feature Engineering
+📌 What I learned:
+Handling missing values using dropna()
+
+One-hot encoding for categorical features
+
+Feature scaling using StandardScaler
+
+Splitting dataset into training and test sets with train_test_split
+
+🛠️ Libraries Used:
+pandas
+
+numpy
+
+scikit-learn
+
+📊 Dataset:
+COVID-19 dataset (India)
+
+🔍 Workflow Summary:
+Dropped null values
+
+Converted categorical data using one-hot encoding
+
+Scaled features to normalize data
+
+Prepared data for modeling by splitting into train/test sets
+
+## 🚀 How to Run
+
+ [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day4.ipynb)
+
+
 
