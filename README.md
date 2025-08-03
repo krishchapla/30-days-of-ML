@@ -120,5 +120,29 @@ Prepared data for modeling by splitting into train/test sets
 
  [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day4.ipynb)
 
+# 📊 Day 5 - Market Analysis & Data Preprocessing
+
+This notebook demonstrates data cleaning and preprocessing on a real-world **market analysis dataset**. It focuses on preparing data for future machine learning tasks.
+
+## ✅ Key Concepts Covered
+
+- Loaded Excel dataset using `pandas.read_excel()`
+- Identified and filled missing values using **mean imputation**
+- Applied **One-Hot Encoding** for categorical columns
+- Performed **feature scaling** with `StandardScaler`
+
+## 🛠️ Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## 🚀 How to Run
+
+ [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day5.ipynb)
+
+
+
 
 
