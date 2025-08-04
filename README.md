@@ -86,7 +86,7 @@ Day 3 of my Machine Learning journey focuses on implementing **Linear Regression
  [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day3.ipynb)
 
 
-Day 4 – 30 Days of ML 🚀
+# Day 4 – 30 Days of ML 🚀
 Topic: Data Preprocessing & Feature Engineering
 📌 What I learned:
 Handling missing values using dropna()
@@ -142,7 +142,31 @@ This notebook demonstrates data cleaning and preprocessing on a real-world **mar
 
  [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day5.ipynb)
 
+# 📈 Day 6 - Stock Price Prediction using Linear Regression
+
+On Day 6 of the #30DaysOfML challenge, I built a simple regression model to predict **stock closing prices** using historical market data.
+
+## ✅ Key Highlights
+
+- Loaded Excel data and parsed the 'Date' column
+- Filled missing values using `interpolate()`, `ffill()`, and `bfill()` methods
+- Selected features and target for prediction
+- Built a **Linear Regression** model using `scikit-learn`
+- Evaluated performance with **Mean Squared Error** and **R² Score**
+
+## 🛠️ Libraries Used
+
+- pandas
+- numpy
+- scikit-learn
+
+## 📊 Dataset
+
+- Market analysis data (Excel)
+
+## 🚀 How to Run
 
 
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day6.ipynb)
 
 
