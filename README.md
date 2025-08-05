@@ -169,4 +169,28 @@ On Day 6 of the #30DaysOfML challenge, I built a simple regression model to pred
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day6.ipynb)
 
+# 📊 Day 7 - Understanding Data Types in Machine Learning
 
+In this notebook, I explored the foundational concept of **data types** — a key step before any machine learning model can be built.
+
+## ✅ What I Learned
+
+- Created a small sample dataset using `pandas`
+- Identified different types of data:
+  - 📈 **Numerical Data** (e.g., integers, floats)
+  - 🏷️ **Categorical Data** (e.g., color names)
+  - 📄 **Text Data** (e.g., full sentences)
+- Performed basic operations:
+  - Mean calculation for numerical data
+  - Frequency counts for categorical values
+  - String length analysis for text data
+
+## 🛠️ Libraries Used
+
+- pandas
+
+## 🚀 How to Run
+
+1. Clone the repository:
+  
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day7.ipynb)
