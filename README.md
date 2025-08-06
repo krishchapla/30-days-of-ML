@@ -190,7 +190,34 @@ In this notebook, I explored the foundational concept of **data types** — a ke
 - pandas
 
 ## 🚀 How to Run
-
-1. Clone the repository:
   
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day7.ipynb)
+
+# 📅 Day 8 – Train-Test Split & Cross-Validation in Machine Learning
+
+On Day 8 of #30DaysOfML, I explored one of the most critical parts of model evaluation: how to properly split and validate datasets.
+
+## 📂 Topics Covered
+
+- ✅ Splitting data into training and test sets using `train_test_split`
+- ✅ Evaluating models using `cross_val_score`
+- ✅ Measuring model performance using **Mean Squared Error (MSE)**
+
+## 🛠️ Libraries Used
+
+- `pandas`, `numpy`
+- `scikit-learn`: `train_test_split`, `cross_val_score`, `LinearRegression`
+
+## 📈 Model Used
+
+- **Linear Regression** from `sklearn.linear_model`
+
+## 💡 Key Takeaways
+
+- Always split your dataset to avoid overfitting.
+- Use **cross-validation** to get a better estimate of model performance.
+- **Mean Squared Error** is a common regression metric.
+
+## ▶️ How to Run
+
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day8.ipynb)
