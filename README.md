@@ -221,3 +221,42 @@ On Day 8 of #30DaysOfML, I explored one of the most critical parts of model eval
 ## ▶️ How to Run
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day8.ipynb)
+
+# 📅 Day 9 – Model Evaluation Metrics in Classification
+
+On Day 9 of #30DaysOfML, I explored how to evaluate classification models using key performance metrics.
+
+---
+
+## 📚 Topics Covered
+
+- Accuracy Score
+- Precision Score
+- Recall Score
+- F1 Score
+
+---
+
+## 🧰 Libraries Used
+
+- `pandas`
+- `numpy`
+- `sklearn.metrics`
+
+---
+
+## 🧠 What I Did
+
+- Created dummy `y_true` and `y_pred` lists
+- Calculated:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
+- Compared metrics to understand which fits best depending on the use case
+
+---
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day9.ipynb)
+
