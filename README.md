@@ -258,5 +258,43 @@ On Day 9 of #30DaysOfML, I explored how to evaluate classification models using 
 ---
 
 ## ▶️ How to Run
-[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day9.ipynb)
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day_9.ipynb)
+
+# 📅 Day 10 – Decision Tree Classifier
+
+On Day 10 of #30DaysOfML, I implemented a basic **Decision Tree Classifier** using the `zoo` dataset.
+
+---
+
+## 📚 Topics Covered
+
+- Decision Tree Classifier with scikit-learn
+- Train/Test Split
+- Model Evaluation (Accuracy)
+- Tree Visualization with `plot_tree`
+
+---
+
+## 🧰 Libraries Used
+
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+
+---
+
+## 🧠 What I Did
+
+- Used `water_need` as a feature and `animal` as the target.
+- Trained a `DecisionTreeClassifier`
+- Evaluated accuracy on test data
+- Visualized the decision tree
+
+---
+
+## ▶️ How to Run
+
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day10.ipynb)
+
 
