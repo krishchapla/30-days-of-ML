@@ -297,4 +297,40 @@ On Day 10 of #30DaysOfML, I implemented a basic **Decision Tree Classifier** usi
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day10.ipynb)
 
+# 📅 Day 11 – Predicting Water Needs for Animals
+
+On Day 11 of **#30DaysOfML**, I worked on predicting **water requirements** for different animals using regression models.
+
+---
+
+## 📚 Topics Covered
+
+- Random Forest Regressor  
+- Decision Tree Regressor  
+- Train/Test Split  
+- Model Evaluation (R² Score, MAE)
+
+---
+
+## 🧰 Libraries Used
+
+- `pandas`  
+- `numpy`  
+- `scikit-learn`
+
+---
+
+## 🧠 What I Did
+
+- Used `animal` as a feature (after one-hot encoding) to predict `water_need`  
+- Trained **RandomForestRegressor** and **DecisionTreeRegressor**  
+- Compared model performance on unseen test data
+
+---
+
+## ▶️ How to Run
+
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day11.ipynb)
+
+
 
