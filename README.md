@@ -363,6 +363,31 @@ On Day 12 of #30DaysOfML, I explored the Support Vector Machine (SVM) — a powe
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day12.ipynb)
 
+# 📅 Day 13 – Categorical Naive Bayes Classifier
+
+On Day 13 of #30DaysOfML, I explored the **Categorical Naive Bayes** algorithm — perfect for classification tasks with categorical features.
+
+## 📂 Topics Covered
+- ✅ Handling categorical data
+- ✅ Splitting dataset into training & test sets
+- ✅ Training a `CategoricalNB` model from scikit-learn
+- ✅ Evaluating with accuracy & classification report
+
+## 🛠️ Libraries Used
+- `pandas`, `numpy`
+- `scikit-learn`: `CategoricalNB`, `train_test_split`, `accuracy_score`, `classification_report`
+
+## 📈 Model Used
+- **Categorical Naive Bayes** (`sklearn.naive_bayes`)
+
+## 💡 Key Takeaways
+- Categorical Naive Bayes works best for discrete/categorical inputs.
+- Great for text classification, survey data, and categorical feature-heavy datasets.
+- Outputs probabilistic predictions.
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day13.ipynb)
+
 
 
 
