@@ -388,6 +388,34 @@ On Day 13 of #30DaysOfML, I explored the **Categorical Naive Bayes** algorithm �
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day13.ipynb)
 
+# 📅 Day 14 – Support Vector Machine (SVM) Classifier
+
+On Day 14 of #30DaysOfML, I implemented Support Vector Classifiers (SVC) with Linear and RBF kernels using the dataset in the Day14 notebook.
+
+## 📚 Topics Covered
+- SVM basics: hyperplane, margin, support vectors
+- Kernel tricks: Linear & RBF
+- Train/Test Split
+- Training and prediction with `sklearn.svm.SVC`
+- Model evaluation: Accuracy, Precision, Recall, F1-score
+- Visualizing decision boundaries for linear vs non-linear separation
+
+## 🛠️ Libraries Used
+- `pandas`
+- `numpy`
+- `scikit-learn` (`SVC`, `train_test_split`, `metrics`)
+- `matplotlib` / `seaborn` (for plotting)
+
+## 🧠 What I Did
+- Preprocessed features and target from the Day14 notebook dataset.
+- Trained **Linear SVC** and **RBF SVC** models.
+- Used `.predict()` to generate predictions and computed Accuracy, Precision, Recall, and F1-score.
+- Plotted decision boundaries to compare linear and RBF separation behavior.
+- Clarified differences between SVM (supervised classification) and clustering algorithms (e.g., KMeans) — this notebook implements SVC, not KNN or clustering.
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day14.ipynb)
+
 
 
 
