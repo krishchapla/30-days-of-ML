@@ -332,36 +332,32 @@ On Day 11 of **#30DaysOfML**, I worked on predicting **water requirements** for 
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day11.ipynb)
 
-# 📅 Day 12 – Support Vector Machine Classifier
+# 📅 Day 12 – K-Nearest Neighbors (KNN) Classifier
 
-On Day 12 of #30DaysOfML, I explored the Support Vector Machine (SVM) — a powerful algorithm for classification tasks.
+On Day 12 of #30DaysOfML, I explored the **K-Nearest Neighbors Classifier** — a simple yet powerful algorithm for classification tasks.
 
 ## 📂 Topics Covered
-
-- ✅ Understanding the concept of **hyperplanes** and **margins**
-- ✅ Using different **kernels** (Linear, Polynomial, RBF) for classification
-- ✅ Visualizing decision boundaries for SVM models
-- ✅ Evaluating model performance using accuracy scores
+- ✅ Understanding the KNN algorithm
+- ✅ Choosing the value of **K**
+- ✅ Training and testing the KNN model
+- ✅ Evaluating model accuracy
 
 ## 🛠️ Libraries Used
-
-- `pandas`, `numpy`
-- `scikit-learn`: `SVC`, `train_test_split`, `accuracy_score`
-- `matplotlib`
+- pandas
+- numpy
+- scikit-learn
 
 ## 📈 Model Used
-
-- **Support Vector Classifier (SVC)** from `sklearn.svm`
+- **KNeighborsClassifier** from sklearn.neighbors
 
 ## 💡 Key Takeaways
-
-- SVMs are highly effective for both linear and non-linear classification tasks.
-- The choice of **kernel** can greatly impact the decision boundary.
-- Useful in various domains like **text classification**, **image recognition**, and more.
+- KNN makes predictions by looking at the **nearest neighbors** in the feature space.
+- The choice of **K** can significantly impact accuracy.
+- Simple to implement but can be computationally expensive for large datasets.
 
 ## ▶️ How to Run
-
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day12.ipynb)
+
 
 # 📅 Day 13 – Categorical Naive Bayes Classifier
 
