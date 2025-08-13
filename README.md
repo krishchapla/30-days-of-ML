@@ -412,6 +412,28 @@ On Day 14 of #30DaysOfML, I implemented Support Vector Classifiers (SVC) with Li
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day14.ipynb)
 
+# 📅 Day 15 – Confusion Matrix in Machine Learning
+
+On Day 15 of #30DaysOfML, I explored the **Confusion Matrix** — one of the most important tools for evaluating classification models.
+
+## 📂 Topics Covered
+- ✅ Understanding the structure of a confusion matrix  
+- ✅ Interpreting **True Positive**, **True Negative**, **False Positive**, and **False Negative**  
+- ✅ Calculating the confusion matrix using `sklearn.metrics.confusion_matrix`  
+- ✅ Visualizing results for better interpretation  
+
+## 🛠️ Libraries Used
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `scikit-learn` (for metrics and model)
+
+## 📊 Why It Matters
+A confusion matrix provides a **complete breakdown** of your model’s predictions, going beyond accuracy to reveal exactly where it’s making mistakes.
+
+## ▶️ How to Run
+
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day15.ipynb)
 
 
 
