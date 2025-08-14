@@ -435,6 +435,30 @@ A confusion matrix provides a **complete breakdown** of your model’s predictio
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day15.ipynb)
 
+# 📅 Day 16 – Exploratory Data Analysis (EDA) on Titanic Dataset
+
+Today in #30DaysOfML, I focused on **data preprocessing and visualization** using the Titanic dataset.
+
+## 📂 Topics Covered
+- ✅ Loading CSV data with pandas
+- ✅ Cleaning and renaming columns
+- ✅ Handling missing values (mean, mode, drop)
+- ✅ Exploratory visualizations (histograms, countplots, scatterplots, boxplots)
+- ✅ Correlation analysis
+
+## 🛠️ Libraries Used
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## 💡 Key Takeaways
+- Data preprocessing is crucial before modeling
+- Handling missing values strategically improves dataset quality
+- Visualizations help uncover hidden patterns & relationships
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day16.ipynb)
 
 
 
