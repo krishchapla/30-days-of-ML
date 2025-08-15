@@ -461,4 +461,28 @@ Today in #30DaysOfML, I focused on **data preprocessing and visualization** usin
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day16.ipynb)
 
 
+# 📅 Day 17 – ROC Curve & AUC (Logistic Regression)
+
+On Day 17 of #30DaysOfML, I evaluated a classifier using the **ROC Curve** and **AUC** on the **Breast Cancer** dataset.
+
+## 📂 Topics Covered
+- ✅ Train/Test Split
+- ✅ Probability scores with `predict_proba`
+- ✅ ROC Curve (`sklearn.metrics.roc_curve`)
+- ✅ Area Under Curve (AUC)
+- ✅ ROC visualization with Matplotlib
+
+## 🛠️ Libraries Used
+- numpy
+- scikit-learn (LogisticRegression, train_test_split, roc_curve, auc)
+- matplotlib
+
+## 🧠 What I Did
+- Loaded `load_breast_cancer()` and split into train/test
+- Trained **LogisticRegression**
+- Computed probability scores and plotted the **ROC curve**
+- Calculated **AUC** to summarize classifier performance
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day17.ipynb)
 
