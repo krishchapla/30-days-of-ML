@@ -486,3 +486,37 @@ On Day 17 of #30DaysOfML, I evaluated a classifier using the **ROC Curve** and *
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day17.ipynb)
 
+# 📅 Day 18 – Regularization in Machine Learning (L1 & L2)
+
+On Day 18 of #30DaysOfML, I explored how **Ridge (L2)** and **Lasso (L1)** regularization help improve model generalization and reduce overfitting.
+
+---
+
+## 📚 Topics Covered
+- Concept of **regularization** in ML
+- Ridge Regression (L2 penalty)
+- Lasso Regression (L1 penalty)
+- Evaluation with **accuracy comparison** between L1 & L2
+
+---
+
+## 🧰 Libraries Used
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `scikit-learn`
+
+---
+
+## 🧠 What I Did
+- Loaded the **Wine dataset** from `sklearn.datasets`
+- Trained models with **Ridge** and **Lasso** regularization
+- Plotted **L1 vs L2 accuracy comparison**
+- Observed how regularization changes model performance
+
+---
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day18.ipynb)
+
+
