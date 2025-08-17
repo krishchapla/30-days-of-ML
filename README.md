@@ -519,4 +519,36 @@ On Day 18 of #30DaysOfML, I explored how **Ridge (L2)** and **Lasso (L1)** regul
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day18.ipynb)
 
+# 📅 Day 19 – Decision Tree Regressor in Machine Learning
+
+On Day 19 of #30DaysOfML, I explored how **Decision Trees** can be applied for **regression tasks** using real-world housing data.
+
+---
+
+## 📚 Topics Covered
+- Concept of **Decision Tree Regression**
+- Splitting continuous data based on feature thresholds
+- Evaluating regression models with **MSE** and **R² Score**
+- Visualizing predictions vs actual values
+
+---
+
+## 🧰 Libraries Used
+- `pandas`, `numpy`
+- `matplotlib`
+- `scikit-learn`: `DecisionTreeRegressor`, `train_test_split`, `metrics`
+
+---
+
+## 🧠 What I Did
+- Loaded the **California Housing dataset**
+- Built a **Decision Tree Regressor**
+- Evaluated predictions using **Mean Squared Error (MSE)** and **R²**
+- Visualized **predicted vs actual values** with a scatter plot
+
+---
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day19.ipynb)
+
 
