@@ -551,4 +551,28 @@ On Day 19 of #30DaysOfML, I explored how **Decision Trees** can be applied for *
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day19.ipynb)
 
+# 📅 Day 20 – Random Forest Classifier in Machine Learning
+
+## 📂 Topics Covered
+- ✅ Introduction to Random Forests (ensemble of Decision Trees 🌲)
+- ✅ Training a Random Forest Classifier on the **Breast Cancer dataset**
+- ✅ Evaluating performance using:
+  - Confusion Matrix
+  - Classification Report
+- ✅ Comparison of Random Forest vs Decision Tree performance
+
+## 🛠️ Libraries Used
+- pandas, numpy
+- scikit-learn: RandomForestClassifier, train_test_split, metrics
+
+## 📈 Model Used
+- **Random Forest Classifier**
+
+## 💡 Key Takeaways
+- Random Forests reduce overfitting compared to single Decision Trees.
+- They improve accuracy by combining predictions of multiple trees.
+- Widely used in **healthcare, finance, and recommendation systems**.
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day20.ipynb)
 
