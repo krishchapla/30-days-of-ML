@@ -576,3 +576,29 @@ On Day 19 of #30DaysOfML, I explored how **Decision Trees** can be applied for *
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day20.ipynb)
 
+# 📅 Day 21 – Random Forest Regressor in Machine Learning
+
+## 📂 Topics Covered
+- ✅ Introduction to Random Forests for Regression 🌲
+- ✅ Using the **California Housing dataset** from sklearn
+- ✅ Training a Random Forest Regressor
+- ✅ Model Evaluation:
+  - Mean Squared Error (MSE)
+  - R² Score
+- ✅ Comparison of Random Forest vs Decision Tree Regressor
+
+## 🛠️ Libraries Used
+- pandas, numpy
+- scikit-learn: RandomForestRegressor, DecisionTreeRegressor, train_test_split, metrics
+
+## 📈 Model Used
+- **Random Forest Regressor**
+
+## 💡 Key Takeaways
+- Random Forest Regressor reduces variance compared to single Decision Trees.
+- It provides **more stable and accurate predictions** on real-world datasets.
+- Widely applied in **real estate pricing, finance, and demand forecasting**.
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day21.ipynb)
+
