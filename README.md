@@ -596,3 +596,41 @@ On Day 19 of #30DaysOfML, I explored how **Decision Trees** can be applied for *
 
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day21.ipynb)
+
+# 📅 Day 22 – XGBoost Classifier with Confusion Matrix
+
+On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic dataset and visualized the results using a **Confusion Matrix**.
+
+---
+
+## 📚 Topics Covered
+
+- XGBoost Classifier for tabular data
+- Handling categorical + numerical features
+- Model evaluation with Accuracy Score
+- Confusion Matrix for classification visualization
+
+---
+
+## 🧰 Libraries Used
+
+- `pandas`, `numpy`
+- `xgboost`
+- `scikit-learn` (train_test_split, accuracy_score, confusion_matrix, metrics)
+- `matplotlib`, `seaborn`
+
+---
+
+## 🧠 What I Did
+
+- Preprocessed Titanic dataset (features: Age, Sex, Pclass, etc.)
+- Trained an **XGBoost Classifier** for survival prediction  
+- Evaluated results using **accuracy score**  
+- Plotted **Confusion Matrix** for detailed performance insight  
+
+---
+
+## ▶️ How to Run
+
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day22.ipynb)
+
