@@ -634,3 +634,29 @@ On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic
 
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day22.ipynb)
 
+# 📅 Day 23 – AdaBoost Classifier in Machine Learning
+
+## 📂 Topics Covered
+- ✅ Introduction to AdaBoost (Adaptive Boosting)
+- ✅ Using weak learners (Decision Trees) with boosting
+- ✅ Training and evaluating AdaBoostClassifier
+- ✅ Confusion Matrix for classification performance
+
+## 🛠️ Libraries Used
+- `pandas`, `numpy`, `matplotlib`, `seaborn`
+- `sklearn.ensemble` → `AdaBoostClassifier`
+- `sklearn.datasets` → breast cancer dataset
+- `sklearn.metrics` → accuracy_score, confusion_matrix
+
+## 📈 Model Used
+- **AdaBoost Classifier** (base: Decision Trees)
+
+## 💡 Key Takeaways
+- AdaBoost combines multiple weak learners to form a strong classifier.
+- Boosting improves accuracy by focusing on misclassified points.
+- Confusion Matrix gives deeper insights beyond accuracy.
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day23.ipynb)
+
+
