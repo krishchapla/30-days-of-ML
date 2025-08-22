@@ -659,4 +659,38 @@ On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day23.ipynb)
 
+# 📅 Day 24 – Voting Classifier
+
+## 📂 Topics Covered
+- ✅ Concept of Voting Classifier
+- ✅ Hard vs Soft Voting explained
+- ✅ Implementation using sklearn’s VotingClassifier
+- ✅ Model evaluation with Confusion Matrix
+
+## 🛠️ Libraries Used
+- `pandas`, `numpy`, `matplotlib`, `seaborn`
+- `sklearn.datasets` → iris dataset
+- `sklearn.ensemble` → VotingClassifier
+- `sklearn.linear_model` → LogisticRegression
+- `sklearn.svm` → SVC
+- `sklearn.tree` → DecisionTreeClassifier
+- `sklearn.metrics` → confusion_matrix, accuracy_score
+
+## 📈 Model Used
+- **Voting Classifier (Hard Voting)** with:
+  - Logistic Regression
+  - Support Vector Classifier
+  - Decision Tree Classifier
+
+## 📊 Visualization
+- **Confusion Matrix** to show classification performance
+
+## 💡 Key Takeaways
+- Voting combines strengths of multiple models
+- Iris dataset → perfect for multi-class classification
+- Confusion matrix helps understand misclassifications beyond accuracy
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day25.ipynb)
+
 
