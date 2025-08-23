@@ -691,6 +691,35 @@ On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic
 - Confusion matrix helps understand misclassifications beyond accuracy
 
 ## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day24.ipynb)
+
+# 📅 Day 25 – Bagging Classifier (Ensemble Learning)
+
+## 📂 Topics Covered
+- ✅ Introduction to **Bagging (Bootstrap Aggregating)**  
+- ✅ Using `BaggingClassifier` with `DecisionTreeClassifier`  
+- ✅ Handling bias-variance trade-off with ensembles  
+- ✅ Evaluating performance with **accuracy score**  
+- ✅ Visualizing predictions using a **bar plot** (Correct vs Incorrect by class)
+
+## 🛠️ Libraries Used
+- pandas, numpy, matplotlib  
+- scikit-learn: `BaggingClassifier`, `DecisionTreeClassifier`, `train_test_split`, `accuracy_score`  
+- sklearn.datasets: `load_wine`
+
+## 📊 Dataset
+- **Wine dataset** from `sklearn.datasets`  
+  - 178 samples, 13 features, 3 classes
+
+## 📈 Model Used
+- **BaggingClassifier** with `DecisionTreeClassifier` as base estimator  
+
+## 💡 Key Takeaways
+- Bagging reduces variance and improves stability of weak learners  
+- Decision trees benefit significantly from bagging  
+- Visualization helps interpret where the model performs well or struggles  
+
+## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day25.ipynb)
 
 
