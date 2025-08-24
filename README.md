@@ -722,4 +722,44 @@ On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day25.ipynb)
 
+# Day 26 of 30DaysOfML 🚀
+## Topic: ExtraTrees Classifier (Extremely Randomized Trees)
+## Dataset: sklearn.datasets.load_digits
+
+---
+
+# 🔹 Introduction
+- ExtraTrees = an ensemble of decision trees with **more randomness** than Random Forest.
+- Splits are chosen at **random thresholds**, and by default no bootstrapping is used.
+- Goal: reduce variance, speed up training, and improve generalization.
+
+---
+
+# 🔹 Steps Implemented
+1. Loaded the **Digits dataset** (8x8 images of handwritten digits).
+2. Split into **train (80%)** and **test (20%)** sets.
+3. Trained an **ExtraTreesClassifier**.
+4. Evaluated with **accuracy score, confusion matrix, and classification report**.
+
+---
+
+# 🔹 Results
+- **Accuracy:** 97.78%  
+- Confusion matrix shows almost perfect classification across all 10 digits.  
+- Precision, recall, and F1-scores are consistently high (≥0.95).  
+
+---
+
+# 🔹 Key Insights
+- ExtraTrees trains **faster than RandomForest** while maintaining strong accuracy.  
+- Randomized splits → **less overfitting, better generalization**.  
+- Works very well for high-dimensional, noisy datasets.  
+
+---
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day26.ipynb)
+
+# 📌 Next (Day 27): Stacking Classifier – blending multiple models into one powerful learner!
+
+
 
