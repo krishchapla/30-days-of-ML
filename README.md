@@ -761,5 +761,43 @@ On Day 22 of #30DaysOfML, I implemented an **XGBoost Classifier** on the Titanic
 
 # 📌 Next (Day 27): Stacking Classifier – blending multiple models into one powerful learner!
 
+# Day 27 of 30DaysOfML 🚀
+## Topic: CatBoost Classifier
+## Dataset: sklearn.datasets.load_breast_cancer
 
+---
 
+# 🔹 Introduction
+- **CatBoost** (by Yandex) is a powerful gradient boosting algorithm.  
+- Designed to handle **categorical features natively**, avoid overfitting, and deliver **state-of-the-art accuracy**.  
+- Built-in regularization and symmetric trees → **fast + accurate**.
+
+---
+
+# 🔹 Steps Implemented
+1. Loaded the **Breast Cancer dataset** (malignant vs benign).  
+2. Split into **train (80%)** and **test (20%)** sets.  
+3. Trained a **CatBoostClassifier** with default settings.  
+4. Evaluated with **classification report & confusion matrix**.
+
+---
+
+# 🔹 Results
+- **Accuracy:** 97%  
+- **Precision/Recall/F1-score:** ~0.97 across both classes.  
+- **Confusion Matrix:** Only 3 misclassifications out of 114 test samples.  
+
+---
+
+# 🔹 Key Insights
+- CatBoost delivers **robust performance** out of the box.  
+- Great at handling **imbalanced or categorical-heavy datasets**.  
+- Outperforms many traditional ML models in speed + accuracy.  
+
+---
+
+# 📌 Keywords
+CatBoost, Gradient Boosting, Ensemble Learning, Sklearn, Breast Cancer Dataset, Python, Machine Learning, Classification, AI, Model Evaluation, Data Science, 30DaysOfML
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day27.ipynb)
