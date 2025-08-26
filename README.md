@@ -801,3 +801,26 @@ CatBoost, Gradient Boosting, Ensemble Learning, Sklearn, Breast Cancer Dataset, 
 
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day27.ipynb)
+
+# 🚀 Day 28 - Model Comparison for Classification
+
+## 📌 Overview
+This notebook demonstrates how to:
+- Generate a synthetic dataset using sklearn
+- Perform train/test split
+- Train multiple classification models
+- Compare their performances
+
+## 🛠️ Models Used
+- Logistic Regression
+- Decision Tree Classifier
+- K-Nearest Neighbors
+
+## 📊 Key Steps
+1. Data Generation (`make_classification`)
+2. Train-Test Split
+3. Model Training
+4. Performance Comparison
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day28.ipynb)
