@@ -824,3 +824,29 @@ This notebook demonstrates how to:
 
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day28.ipynb)
+
+# 🌸 Day 29 - Iris Dataset Exploration
+
+## 📌 Overview
+This notebook demonstrates the first step in any ML workflow:
+**Exploratory Data Analysis (EDA)**.
+Using the Iris dataset, we:
+- Load data from sklearn
+- Convert it into a pandas DataFrame
+- Map target integers to species names
+- Generate scatter plot matrices to explore relationships
+
+## 📊 Dataset
+- Iris Dataset (150 samples)
+- Features: sepal length, sepal width, petal length, petal width
+- Target: Species (Setosa, Versicolor, Virginica)
+
+## 📈 Visualizations
+- Scatter plot matrix of all features
+- Color-coded by species
+- Insights into feature separability
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day29.ipynb)
+
+
