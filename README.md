@@ -849,4 +849,33 @@ Using the Iris dataset, we:
 ## ▶️ How to Run
 [Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day29.ipynb)
 
+# 🌳 Day 30 - Diabetes Regression with Random Forest
+
+## 📌 Overview
+This notebook demonstrates a **regression pipeline** using the Diabetes dataset.
+Key steps include:
+- Data loading & preprocessing
+- Train-test split
+- Feature scaling with StandardScaler
+- Regression modeling using Random Forest
+
+## 📊 Dataset
+- Source: sklearn.datasets.load_diabetes
+- Features: 10 baseline variables (age, sex, BMI, BP, etc.)
+- Target: Disease progression after one year
+
+## 🛠️ Workflow
+1. Load and inspect dataset
+2. Preprocess (scaling with StandardScaler)
+3. Train/Test Split
+4. Model training with RandomForestRegressor
+5. (Planned) Visualization of distributions before & after scaling
+
+## 📈 Model
+- Algorithm: Random Forest Regressor
+- Goal: Predict diabetes progression
+- Advantage: Captures complex feature interactions
+
+## ▶️ How to Run
+[Code Link](https://github.com/krishchapla/30-days-of-ML/blob/main/Day29.ipynb)
 
